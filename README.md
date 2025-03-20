@@ -1,2 +1,2 @@
 # webdev_project1
-Create three HTML pages
+Create three HTML pages.
